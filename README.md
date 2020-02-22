@@ -8,3 +8,6 @@ TypescriptでGASを作るテンプレート
   - ファイル > プロジェクトのプロパティ > スクリプトID
 - .clasp.jsonにscriptIdを入力
 - `npm i` or `yarn`
+
+## GASへ反映
+`clasp push`
